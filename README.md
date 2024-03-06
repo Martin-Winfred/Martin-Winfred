@@ -1,7 +1,6 @@
 # Hi there
 
 * Linux user, familiar with Debian series and Arch series
-* Now in WIntec as a student
 * I like do some reading when I am free
 * I may don't reply issue, but be happy to ask questions.
 * Ask things [here](https://github.com/Martin-Winfred/Martin-Winfred/issues)  
