@@ -1,10 +1,13 @@
-# Hi there
+# Hi there 👋
+### About me
+---
+* Current a Master of Computer science student in University of Sydney
 
 * Linux user, familiar with Debian series and Arch series
 * I like do some reading when I am free
 * I may don't reply issue, but be happy to ask questions.
 * Ask things [here](https://github.com/Martin-Winfred/Martin-Winfred/issues)  
-
+---
 ## My Skill set
 
 ### DevOps
